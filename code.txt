@@ -1,0 +1,3 @@
+docker pull riishaall/app:latest
+docker run -p 1000:1000 riishaall/app:latest
+docker push riishaall/app:latest
